@@ -121,6 +121,31 @@
          <h3>I Am Available For Freelancer!</h3>
          <a href="">Contactarme</a>
       </div>
+   </section>
+
+   <section class="work">
+      <div class="childWork">
+         <h5>WORKS</h5>
+         <H2>My Works</H2>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta vitae necessitatibus quidem distinctio placeat magni autem explicabo eos nemo voluptatum corrupti </p>
+            <hr>
+            <div class="btnWork">
+               <a href="#">All</a>
+               <a href="#">Desing</a>
+               <a href="#">Marketing</a>
+               <a href="#">Photogrsphy</a>
+            </div>
+         <div class="boxWork">
+            <div class="boxWork">
+               <div class="imgWork"><img src="assets/img/portafolio1.jpg" alt=""></div>
+               <div class="imgWork"><img src="assets/img/portafolio2.jpg" alt=""></div>
+               <div class="imgWork"><img src="assets/img/portafolio3.jpg" alt=""></div>
+               <div class="imgWork"><img src="assets/img/portafolio4.jpg" alt=""></div>
+               <div class="imgWork"><img src="assets/img/portafolio5.jpg" alt=""></div>
+               <div class="imgWork"><img src="assets/img/portafolio6.jpg" alt=""></div>
+            </div>
+         </div>
+      </div>
       
    </section>
 
