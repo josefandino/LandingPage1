@@ -1,3 +1,20 @@
+function alertNavegador(){
+   alert('Ejercicio realizado por Jose Fandiño');
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 var clic = 1;
 
 function divLogin(){ 

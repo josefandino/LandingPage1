@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   <title>Project</title>
+   <title>LandingPage</title>
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
    <link rel="stylesheet" href="assets/css/main.css">
 </head>
@@ -76,7 +76,7 @@
       </div>
    </section>
 
-   <section class="services">
+   <section class="services" onclick="alertNavegador()">
       <div class="wedo"><p>Lo que hacemos</p></div>
       <h2>My Services</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta adipisci ab voluptate placeat vel esse, tempore perferendis, hic quas aut sed eius officia cumque quam odit quisquam ducimus, iusto ad!</p>
